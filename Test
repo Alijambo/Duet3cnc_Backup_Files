@@ -1,0 +1,9 @@
+-userName = Alijambo
+-userToken = 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
+-rep = Alijambo/Duet3cnc_Backup_Files.git
+-dir = sd/sys
+-dir = sd/macros
+-days = 1
+-hours = 6
+-ignore = *.log
+-verbose
